@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pietrzad! I'm Data Analyst!
+- 👋 Hi, I’m @pietrzad! I'm BI Developer!
 - 👀 I’m interested in Business Intelligence
 - 🌱 I’m constantly learning SQL, different BI tools (Tableau, PowerBI, Looker), data storytelling and data visualization
 - 💞️ I’m looking to collaborate on any interesting project I can contribute to
